@@ -44,7 +44,7 @@ namespace passwords_generator
                     alphabet = lowercase + uppercase + numbers + specialCharacters;
                     break;
                 default:
-                    Console.WriteLine("ERREUR : Qu'est-ce que vous avez foutu bordel !");
+                    Console.WriteLine("ERREUR : Qu'est-ce que vous avez foutu bordel ?!");
                     break;
             }
 
